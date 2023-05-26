@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(243, 156, 217);
+}
+.texto{
+    margin: auto;
+    width: 280px;
+    height: 150px;
+    background-color: mediumpurple;
+    text-align: center;
+    border-radius: 20px;
+
+
+}
